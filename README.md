@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>Intelligent AI-powered photo editing using Segment Anything Model (SAM) + Stable Diffusion XL Inpainting.</strong><br/>
-  Select any subject in an image — change its background, replace the subject, or remove objects entirely — using natural language prompts.
+  Select any subject in an image - change its background, replace the subject, or remove objects entirely - using natural language prompts.
 </p>
 
 </div>
@@ -158,7 +158,7 @@ jupyter notebook
 2. **Click** on the subject you want to edit (point-based selection)
 3. SAM generates a **segmentation mask** around the selected area
 4. **Enter a text prompt** describing the desired result (e.g., `"sunset beach background"`)
-5. Hit **Generate** — the inpainting model fills the masked region according to your prompt
+5. Hit **Generate** - the inpainting model fills the masked region according to your prompt
 6. **Download** your edited image
 
 > 💡 Tip: For best results, use descriptive prompts and choose high-contrast subjects.
